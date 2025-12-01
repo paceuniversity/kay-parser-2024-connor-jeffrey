@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.scanner.project.ParserTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-12-01T04:09:51.296Z" hostname="Mac" time="0.023">
+  <properties/>
+  <testcase name="secretTest1()" classname="com.scanner.project.ParserTest" time="0.011"/>
+  <testcase name="secretTest2()" classname="com.scanner.project.ParserTest" time="0.002"/>
+  <testcase name="secretTest3()" classname="com.scanner.project.ParserTest" time="0.002"/>
+  <testcase name="secretTest4()" classname="com.scanner.project.ParserTest" time="0.001"/>
+  <testcase name="ifElseStatement()" classname="com.scanner.project.ParserTest" time="0.001"/>
+  <testcase name="exceptionWhenIntIsUsedInteadOfInteger()" classname="com.scanner.project.ParserTest" time="0.001"/>
+  <testcase name="integerAssignment()" classname="com.scanner.project.ParserTest" time="0.001"/>
+  <testcase name="exceptionWhenProgramHasParenthesesAfterMainBeforeBracket()" classname="com.scanner.project.ParserTest" time="0.001"/>
+  <testcase name="whileStatement()" classname="com.scanner.project.ParserTest" time="0.0"/>
+  <testcase name="exceptionWhenEqualsOperatorIsMissingColon()" classname="com.scanner.project.ParserTest" time="0.0"/>
+  <testcase name="doublePipeOperatorInAssignment()" classname="com.scanner.project.ParserTest" time="0.001"/>
+  <testcase name="exceptionWhenProgramStartsWithVoid()" classname="com.scanner.project.ParserTest" time="0.0"/>
+  <system-out><![CDATA[Syntax error - Expecting: ; But saw: Identifier = i
+Syntax error - Expecting: Statement But saw: Other = 
+Syntax error - Expecting: ( But saw: Separator = {
+Syntax error - Expecting: := But saw: Identifier = i
+Syntax error - Expecting: { But saw: Separator = (
+Syntax error - Expecting: := But saw: Other = =
+Syntax error - Expecting: main But saw: Identifier = void
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

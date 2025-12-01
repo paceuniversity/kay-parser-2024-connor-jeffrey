@@ -1,0 +1,7 @@
+4Syntax error - Expecting: ; But saw: Identifier = i
+6Syntax error - Expecting: Statement But saw: Other = 
+3Syntax error - Expecting: ( But saw: Separator = {
+5Syntax error - Expecting: := But saw: Identifier = i
+	3Syntax error - Expecting: { But saw: Separator = (
+0Syntax error - Expecting: := But saw: Other = =
+:Syntax error - Expecting: main But saw: Identifier = void
